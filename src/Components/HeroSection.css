@@ -1,0 +1,29 @@
+
+
+
+section.herosection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: start; 
+    padding-top: 10%;
+    /* font-family: 'Aref Ruqaa Ink', serif; */
+   
+    font-family: 'Aref Ruqaa Ink', serif;
+}
+img.hero-Img.left {
+    width: 100%;
+}   
+.hero-image-Div{
+    width: 20%;
+}
+h1.hero-text-Name {
+    font-size: xxx-large;
+    letter-spacing: 4px;
+    color: white;
+    font-family: 'Kaushan Script', cursive;
+}
+.heroSection-Left {
+    display: flex;
+    align-items: center;
+}
